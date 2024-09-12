@@ -1,0 +1,4 @@
+origin	https://gitee.com/anolis/cloud-kernel.git (fetch)
+origin	https://gitee.com/anolis/cloud-kernel.git (push)
+origin	https://gitee.com/openeuler/kernel.git (fetch)
+origin	https://gitee.com/openeuler/kernel.git (push)
